@@ -7,7 +7,7 @@ My name is Szymon. I'm currently working on backend, but doing my best to become
 - 🏢 I'm currently working at **Comarch**
 - ⚙️ I use daily: `.cs`, `.sql` and `.ts`, `.scss`, `.html` after work
 - 🌍 My favorite programming language is **CSharp**
-- 📝 Favorite IDEs? Everything from **Jetbrains** nad **Visual Studio Code**
+- 📝 Best IDEs? Everything from **Jetbrains** and **Visual Studio Code**
 - 💻 **Arch Linux** is my favorite operating system, but i work on **Windows 10/11** too
 - 🌱 Learning all about **Angular** and **Web Development**
 - 💬 Contact me if you have **any questions** or **job opportunities**
