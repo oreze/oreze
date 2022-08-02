@@ -4,7 +4,7 @@ My name is Szymon. I'm currently working on backend, but doing my best to become
 
 ##### BIO
 
-- 🏢 I'm currently working at **Comarch**
+- 🏢 I'm currently working at **[Rentals United](https://rentalsunited.com/)**
 - ⚙️ I use daily: `.cs`, `.sql` and `.ts`, `.scss`, `.html` after work
 - 🌍 My favorite programming language is **CSharp**
 - 📝 Best IDEs? Everything from **Jetbrains** and **Visual Studio Code**
