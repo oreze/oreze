@@ -12,4 +12,6 @@ My name is Szymon. I'm currently working on backend, but doing my best to become
 
 <br>
 
+I may be not active on Github, but remember, I work with Bitbucket on daily basis! :smiley_cat:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oreze&show_icons=true&theme=dracula)
