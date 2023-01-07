@@ -1,6 +1,6 @@
 ## Hello world! 👋
 
-My name is Szymon. I'm currently working on backend, but doing my best to become a Full-Stack Developer.
+My name is Szymon. I'm currently working on backend, but doing my best to become a Full-Stack Developer. For CV or LinkedIn check my [landing page](https://oreze.github.io/).
 
 ##### BIO
 
