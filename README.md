@@ -1,6 +1,5 @@
 ## Hello world! 👋
 
-I'm looking for a job right now. If you need a fast-learning and proactive .NET developer, contact me via DM!
 
 My name is Szymon. I'm currently working on backend, but doing my best to become a real Devops G.
 
